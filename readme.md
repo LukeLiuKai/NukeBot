@@ -32,8 +32,8 @@ token: "YOURTOKEN",
 ```
 
 6: 🌟 Start the Bot
-```
 In the console, run:
+```
 node index.js
 ```
 
