@@ -1,4 +1,5 @@
-# ⚠ Discord Nuke Bot ⚠ STILL IN DEVELOPEMENT | USE THE PUBLIC BOT
+# ⚠ Discord Nuke Bot ⚠ 
+# STILL IN DEVELOPEMENT | USE THE PUBLIC BOT
 Easy to use Discord server nuker. Use at your own risk.
 
 # Code is Still In Development
